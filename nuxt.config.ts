@@ -13,13 +13,15 @@ export default defineNuxtConfig({
   },
   // Fonts
   fontMetrics: {
-    fonts: ['DM Sans']
+    //fonts: ['DM Sans']
+    fonts: ['Ubuntu Condensed']
   },
   googleFonts: {
     display: 'swap',
     download: true,
     families: {
-      'DM+Sans': [400, 500, 600, 700]
+      //'DM+Sans': [400, 500, 600, 700]
+      'Ubuntu+Condensed': [400, 500, 600, 700]
     }
   },
   routeRules: {

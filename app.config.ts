@@ -1,6 +1,6 @@
 export default defineAppConfig({
   ui: {
-    primary: 'green',
+    primary: 'yellow',
     gray: 'slate',
     footer: {
       bottom: {
@@ -25,7 +25,7 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: 'Copyright © 2023',
+    credits: '©2023 arundo.tech',
     colorMode: false,
     links: [{
       icon: 'i-simple-icons-nuxtdotjs',
