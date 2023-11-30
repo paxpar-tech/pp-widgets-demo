@@ -77,7 +77,7 @@ Install [Renovate GitHub app](https://github.com/apps/renovate/installations/sel
 
 ## publish
 
-See https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
 ```
+npx npm login
 npx npm publish --access public
 ```
