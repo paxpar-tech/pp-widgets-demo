@@ -1,6 +1,5 @@
 {
   "name": "@paxpar-tech/pp-widgets-demo",
-  "private": true,
   "type": "module",
   "scripts": {
     "build": "nuxt build",

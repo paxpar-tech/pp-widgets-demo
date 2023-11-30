@@ -73,3 +73,11 @@ Read more on [Nuxt Studio docs](https://nuxt.studio/docs/projects/setup).
 ## Renovate integration
 
 Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+
+
+## publish
+
+See https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
+```
+npx npm publish --access public
+```
